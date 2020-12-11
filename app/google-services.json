@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070934433275",
+    "project_id": "exam-758bd",
+    "storage_bucket": "exam-758bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070934433275:android:42e291eed7efe06b64bf5e",
+        "android_client_info": {
+          "package_name": "vini.mehta200389547"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070934433275-uum23cd1rv04flt892ucic534vm2sgpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGDu0UgXzZgqDlKl2HGXNyvWeKFINrQY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070934433275-uum23cd1rv04flt892ucic534vm2sgpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
